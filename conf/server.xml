@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Server 就代表最外层的 Server 元素，即服务器本身。-->
+<Server>
+    <!-- Service 是 Engine 的父节点，用于代表 tomcat 提供的服务。-->
+    <Service name="Catalina">
+    <!--compression 表示是否启动，当等于 "on" 的时候，表示启动
+        compressionMinSize 表示最小进行压缩的字节数，太小就没有必要压缩了，一般是 1024. 但是这里为了看到效果，故意设置成20，否则就看不到现象了。
+        noCompressionUserAgents： 这表示不进行压缩的浏览器
+        compressableMimeType： 这表示哪些 mimeType 才需要进行压缩 -->
+        <Connector port="18080"
+                   compression="on"
+                   compressionMinSize="20"
+                   noCompressionUserAgents="gozilla, traviata"
+                   compressibleMimeType="text/html,text/xml,text/javascript,application/javascript,text/css,text/plain,text/json"
+        />
+        <Connector port="18081"/>
+        <Connector port="18082"/>
+        <!-- 在 tomcat 里 Engine表示 servlet 引擎，用来处理 servlet 的请求。-->
+        <Engine defaultHost="localhost">
+            <!-- Host 的意思是虚拟主机。 通常都是 localhost, 即表示本机。-->
+            <Host name="localhost">
+                <Context path="/b" docBase="A:/project/DIYtomcat/b"/>
+                <Context path="/javaweb" docBase="A:/project/JavaWeb/web" reloadable = "true"/>
+            </Host>
+        </Engine>
+    </Service>
+</Server>

@@ -1,0 +1,434 @@
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 191 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 8 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 80 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 23 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 2 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 2 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 62 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 20:23:38 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 132 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 7 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 31 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 17 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 3 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 2 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 11 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 20:42:39 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+02 13, 2022 22:06:35 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 117 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 6 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 28 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 19 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 3 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 3 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 14 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 22:06:36 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 5 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 114 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 6 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 27 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 13 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 2 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 3 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 13 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 22:07:31 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 122 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 6 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 26 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 18 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 2 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 2 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 13 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 22:10:23 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 114 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 6 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 29 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 14 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 3 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 3 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 13 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 0 ms
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 22:16:06 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 4 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\a
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\a has finished in 113 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\j2ee
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\j2ee has finished in 8 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb0
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb0 has finished in 32 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\javaweb1
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\javaweb1 has finished in 23 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:\project\DIYtomcat\webapps\ROOT
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:\project\DIYtomcat\webapps\ROOT has finished in 4 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/DIYtomcat/b
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/DIYtomcat/b has finished in 3 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory A:/project/JavaWeb/web
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory A:/project/JavaWeb/web has finished in 17 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server version:		StarMika DiyTomcat/1.0
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server built:		2022-01-14 10:20:22
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Architecture:		amd64
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : Java Home:		A:\jdk1.8\jre
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_152-b16
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+02 13, 2022 22:16:54 下午 priv.mika.diytomcat.catalina.Server start
+INFO : Server startup in 6 ms
